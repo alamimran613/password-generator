@@ -2,7 +2,7 @@
 
 A secure, client-side password generator built with vanilla HTML, CSS, and JavaScript. Generate strong, customizable passwords with real-time strength analysis and one-click copying.
 
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
     <img src="./assets/padlock.png" width="300" height="300" alt="Padlock Icon" title="Padlock Icon">
 </div>
 
