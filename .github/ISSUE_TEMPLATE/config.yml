@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: 📧 Email Support
-    url: mailto:alamimran613@live.com?subject=Password%20Generator%20Support
+    url: <alamimran613@live.com>
     about: For private security issues or direct questions
   - name: 🔒 Report a security vulnerability
     url: mailto:alamimran613@live.com?subject=[SECURITY]%20Password%20Generator%20Issue
