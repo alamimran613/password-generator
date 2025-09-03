@@ -93,7 +93,3 @@ For security concerns, please review our [Security Policy](SECURITY.md).
 ---
 
 ⭐ **Like this project? Give it a star!** ⭐
-
-```
-
-```
