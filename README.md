@@ -6,6 +6,9 @@ A secure, client-side password generator built with vanilla HTML, CSS, and JavaS
     <img src="./assets/padlock.png" width="300" height="300" alt="Padlock Icon">
 </div>
 
+## 🚀 Visit Website
+
+🌐 **Visit Password Generator**: [Click Here To Generate Password](https://alamimran613.github.io/password-generator/)
 
 ## ✨ Features
 
